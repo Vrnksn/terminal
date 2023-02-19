@@ -1,0 +1,8 @@
+cd 
+mkdir
+touch
+mv
+cat
+vim
+pwd 
+rm
