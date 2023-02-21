@@ -1,0 +1,10 @@
+#!/bin/bash
+# My first bash_script
+cd terminal
+mkdir bash_script_1 bash_script_2 bash_script_3
+cd bash_script_1
+touch aa.txt bb.txt cc.txt 11.json 22.json
+mkdir scr_a scr_b scr_c
+ls -la
+mv aa.txt 11.json scr_a/
+
