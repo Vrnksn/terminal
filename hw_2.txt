@@ -235,6 +235,15 @@ $ head -n4 inner_dir_1/tF_5.txt
 3
 4
 
+nniko@pc MINGW64 /d/learn/way_1/terminal_hw_2/dir_1
+$ mkdir inner_dir_2; cat > tf_6.txt
+ewa
+ira
+rem
+mir
+
+
+
 
 
 
